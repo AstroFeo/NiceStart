@@ -1,4 +1,3 @@
-
 # NiceStart
 
 
@@ -117,7 +116,9 @@ Snackbar snackbar = Snackbar
 * [MainView Java](app/src/main/java/com/aperez/nicestart/Profile.java)
 * [MainView XML](app/src/main/res/layout/activity_profile.xml)
 
-<img loading="lazy" src="Images/Profile.png" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img loading="lazy" src="Images/LottieAnimationGif.gif" width="30%"> 
+<img loading="lazy" src="Images/Profile.png" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img loading="lazy" src="Images/LottieAnimationGif.gif" width="30%">
+
+<img loading="lazy" src="Images/ProfileLand.PNG" />
 
 ### LottieAnimations
 
@@ -137,3 +138,7 @@ Snackbar snackbar = Snackbar
     app:layout_constraintBottom_toBottomOf="parent"
     app:layout_constraintStart_toStartOf="parent"/>
 ```
+
+
+
+
