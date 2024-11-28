@@ -51,7 +51,7 @@ public class Main extends AppCompatActivity {
         swipeLayout.setOnRefreshListener(mOnRefreshListener);
 
         //La vista dentro es un webview con permiso para zoom
-        miVisorWeb = (WebView) findViewById(R.id.vistaweb);
+        miVisorWeb = findViewById(R.id.vistaweb);
 //        miVisorWeb.getSettings().setJavaScriptEnabled(true);
 //        miVisorWeb.getSettings().setBuiltInZoomControls(true);
         WebSettings webSettings = miVisorWeb.getSettings();
@@ -139,7 +139,7 @@ public class Main extends AppCompatActivity {
             toast.show();
         }
         if (id == R.id.item2) {
-            Toast toast = Toast.makeText(this, "Downloading...", Toast.LENGTH_SHORT);
+            Toast toast = Toast.makeText(this, "Downloading..", Toast.LENGTH_SHORT);
             toast.show();
         }
 
