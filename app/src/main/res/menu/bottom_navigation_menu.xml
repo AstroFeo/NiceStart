@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/likes"
+        android:title="Likes"
+        android:contentDescription="none"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/add"
+        android:title="Add"
+        android:contentDescription="none"
+        app:showAsAction="always"
+        >
+    </item>
+
+    <item
+        android:id="@+id/browse"
+        android:title="Browse"
+        android:contentDescription="none"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/personal"
+        android:title="Personal"
+        android:contentDescription="none"
+        app:showAsAction="always"
+        >
+    </item>
+
+
+
+</menu>

@@ -10,4 +10,5 @@
     <style name="Theme.NiceStart.ActionBar" parent="Theme.Material3.DayNight">
 
     </style>
+    <style name="Theme.NiceStart.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 </resources>
