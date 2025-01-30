@@ -18,6 +18,9 @@
             android:name=".MainBn"
             android:exported="true" />
         <activity
+            android:name=".MainBab"
+            android:exported="true" />
+        <activity
             android:name=".Profile"
             android:exported="false" />
         <activity
