@@ -139,6 +139,19 @@ Snackbar snackbar = Snackbar
     app:layout_constraintStart_toStartOf="parent"/>
 ```
 
+### MainBab
+
+* [MainView Java](app/src/main/java/com/aperez/nicestart/MainBab.java)
+* [MainView XML](app/src/main/res/layout/activity_mainbab.xml)
+
+<img loading="lazy" src="Images/MainBab1.png" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img loading="lazy" src="Images/MainBab2.png" width="30%">
+
+### MainBn
+
+* [MainView Java](app/src/main/java/com/aperez/nicestart/MainBn.java)
+* [MainView XML](app/src/main/res/layout/activity_main_bn.xml)
+
+<img loading="lazy" src="Images/mainbn.gif" width="30%">
 
 
 
